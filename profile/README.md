@@ -1,5 +1,5 @@
 # GDSC RVTTI
 
 ## How to join the organisation
-You can join our community by opening an issue **[here](https://github.com/Th3-Shield/support/issues/new?assignees=&labels=Invitation+to+the+community&template=invitation.yml&title=Please+invite+me+to+The+Shield+GitHub+Community+Organization).** `(You will receive an email)`
+You can join our community by opening an issue **[here](https://github.com/GDSC-RVTTI/support/issues/new?assignees=&labels=Invitation+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+GDSC+RVTTI+community).** `(Then check your email for an Invitation link)`
 
